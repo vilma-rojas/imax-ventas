@@ -1,0 +1,164 @@
+#header{
+    height: 865px;
+    margin-top: -120px;
+
+    /*margin-top: -150px;*/
+    position: absolute;
+    
+    
+}
+
+.header {
+    background: url(.img/header.jpg) no-repeat center;
+    background-size: cover;
+    min-height: 100vh;
+  }
+
+.header .navbar {
+    background-color: transparent !important;
+}
+
+.titulo{
+  font-size: 50px;
+  color: white;
+  margin-left: 55px;
+  margin-top: 10px;
+
+}
+
+.nav-link{
+  font-size: 30px;
+  color: white;
+  text-align: right;
+}
+
+.subTitulo1{
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  margin-top: 800px;
+  margin-left: 55px;
+
+}
+
+.subTitulo2{  
+  color: white;
+  position: absolute;
+  font-size: 30px;
+  margin-top: 950px;
+  margin-left: 55px;
+
+}
+
+.subTitulo3{
+  color:grey;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 120px;
+  
+}
+
+.subTitulo4{
+  color: grey;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 500px;
+  /*position: absolute;*/
+}
+
+.row > div{
+  background: #f2f2f2;
+  padding: 30px;
+  border: 1px solid grey;
+}
+
+.card{margin:   auto;}
+
+.card1{
+  width: 300px;
+  height: 100px;
+  margin-top: 500px;
+  margin-left: -100px;
+ /* margin-left: -100px;
+  margin-top: -40px;*/
+  
+
+}
+
+.card2{
+  width: 300px;
+  height: 100px;
+  margin-top: 500px;
+  margin-left: 310px;
+ /* margin-left: -px;
+  margin-top: -400px;*/
+
+
+}
+
+
+.card3{
+  width: 300px;
+  height: 100px;
+  margin-top: 330px;
+  margin-left: 827px;
+ /* margin-top: -800px;
+  margin-left: 850px;*/
+ 
+
+}
+
+.seguridad{
+  width: 300px;
+  height: 100px;
+  margin-top: 500px;
+  margin-left: -100px;
+ /* margin-left: -100px;
+  margin-top: -40px;*/
+  
+
+}
+
+.seguridad-icono{
+  width: 150px;
+  height: 150px;
+
+
+
+}
+
+.mejorPrecio{
+  width: 300px;
+  height: 100px;
+  margin-top: 500px;
+  margin-left: 310px;
+ /* margin-left: -px;
+  margin-top: -400px;*/
+
+
+}
+
+.mejorPrecio-icono{
+  width: 150px;
+  height: 150px;
+
+
+}
+
+.atiempo{
+  width: 300px;
+  height: 100px;
+  margin-top: 330px;
+  margin-left: 827px;
+ /* margin-top: -800px;
+  margin-left: 850px;*/
+ 
+
+}
+
+.atiempo-icono{
+  width: 150px;
+  height: 150px;
+
+
+}
