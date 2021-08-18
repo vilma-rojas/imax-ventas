@@ -354,10 +354,39 @@
 }
 
 .footer{
-    
-   
-    
-    
+  height: 600px;
+  width: 1345px;
+  
+}
 
+.titulo-footer{
+  color: white;
+  font-size: 35px;
+
+  margin-top: -400px;
+  margin-left: 80px;
+  
 
 }
+
+.subtitulo-footer{
+
+  color: white;
+  font-size: 20px;
+  margin-left: 80px;
+  margin-top: 55px;
+
+ 
+
+}
+
+.botonfooter{
+  width: 250px;
+  height: 40px;
+  margin-left: 80px;
+  margin-top: 45px;
+  background-color: #FB9707;
+  border-color: #FB9707;
+
+}
+
