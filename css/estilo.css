@@ -1,8 +1,6 @@
 #header{
     height: 865px;
     margin-top: -120px;
-
-    /*margin-top: -150px;*/
     position: absolute;
     
     
@@ -95,7 +93,6 @@
   text-align: center;
   font-size: 35px;
   margin-top: 270px;
-  /*position: absolute;*/
 }
 
 .row > div{
@@ -111,8 +108,6 @@
   height: 100px;
   margin-top: 500px;
   margin-left: -100px;
- /* margin-left: -100px;
-  margin-top: -40px;*/
   
 
 }
@@ -122,8 +117,6 @@
   height: 100px;
   margin-top: 500px;
   margin-left: 310px;
- /* margin-left: -px;
-  margin-top: -400px;*/
 
 
 }
@@ -134,8 +127,6 @@
   height: 100px;
   margin-top: 330px;
   margin-left: 827px;
- /* margin-top: -800px;
-  margin-left: 850px;*/
  
 
 }
@@ -145,9 +136,7 @@
   height: 100px;
   margin-top: 10px;
   margin-left: -100px;
- /* margin-left: -100px;
-  margin-top: -40px;*/
-  
+ 
 
 }
 
@@ -165,9 +154,6 @@
   height: 100px;
   margin-top: -100px;
   margin-left: 310px;
- /* margin-left: -px;
-  margin-top: -400px;*/
-
 
 }
 
@@ -184,8 +170,6 @@
   height: 100px;
   margin-top: -80px;
   margin-left: 850px;
- /* margin-top: -800px;
-  margin-left: 850px;*/
  
 
 }
