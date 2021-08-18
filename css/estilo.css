@@ -154,6 +154,7 @@
 .seguridad-icono{
   width: 150px;
   height: 150px;
+  margin-left: 70px;
 
 
 
@@ -192,5 +193,12 @@
   width: 150px;
   height: 150px;
 
+
+}
+
+.card-title{
+  color:black;
+  text-align: center;
+  font-size: 30px;
 
 }
