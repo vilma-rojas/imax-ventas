@@ -93,8 +93,8 @@
 .subTitulo4{
   color: grey;
   text-align: center;
-  font-size: 30px;
-  margin-top: 500px;
+  font-size: 35px;
+  margin-top: 270px;
   /*position: absolute;*/
 }
 
@@ -208,4 +208,33 @@
 .card-text{
   font-size: 18px;
   text-align: center;
+}
+
+.card-title2{
+  color:black;
+  text-align: left;
+  font-size: 22px;
+
+}
+
+.card-text2{
+  font-size: 18px;
+  text-align: left;
+
+}
+
+.casaDeLujo{
+  width: 400px;
+  height: 450px;
+  border-style: solid;
+  border-color: #E6E7F5 ;
+  margin-left: -70px;
+  margin-top: 70px;
+  background-color:#E6E7F5   ;
+}
+
+.casaDeLujo-img{
+  width: 400px;
+  height: 300px;
+
 }
