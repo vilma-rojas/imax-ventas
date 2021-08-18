@@ -141,9 +141,9 @@
 }
 
 .seguridad{
-  width: 300px;
+  width: 450px;
   height: 100px;
-  margin-top: 500px;
+  margin-top: 10px;
   margin-left: -100px;
  /* margin-left: -100px;
   margin-top: -40px;*/
@@ -154,16 +154,16 @@
 .seguridad-icono{
   width: 150px;
   height: 150px;
-  margin-left: 70px;
+  margin-left: 150px;
 
 
 
 }
 
 .mejorPrecio{
-  width: 300px;
+  width: 450px;
   height: 100px;
-  margin-top: 500px;
+  margin-top: -100px;
   margin-left: 310px;
  /* margin-left: -px;
   margin-top: -400px;*/
@@ -174,15 +174,16 @@
 .mejorPrecio-icono{
   width: 150px;
   height: 150px;
+  margin-left: 150px;
 
 
 }
 
 .atiempo{
-  width: 300px;
+  width: 450px;
   height: 100px;
-  margin-top: 330px;
-  margin-left: 827px;
+  margin-top: -80px;
+  margin-left: 850px;
  /* margin-top: -800px;
   margin-left: 850px;*/
  
@@ -190,8 +191,9 @@
 }
 
 .atiempo-icono{
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
+  margin-left: 150px;
 
 
 }
@@ -201,4 +203,9 @@
   text-align: center;
   font-size: 30px;
 
+}
+
+.card-text{
+  font-size: 18px;
+  text-align: center;
 }
